@@ -15,6 +15,8 @@
 
 <img src = "img/create_project.png" width = 100%>
 
+<img src = "img/add_runner.png" width = 100%>
+
 ### Задание 2
 
 Что нужно сделать:
@@ -29,3 +31,7 @@
 
 
 ### Решение 2
+
+<img src = "img/git_remote.png" width = 100%>
+
+
