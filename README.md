@@ -15,6 +15,8 @@
 
 <img src = "img/create_project.png" width = 100%>
 
+<img src = "img/runner_sittings.png" width = 100%>
+
 <img src = "img/add_runner.png" width = 100%>
 
 ### Задание 2
