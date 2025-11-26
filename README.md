@@ -34,4 +34,8 @@
 
 <img src = "img/git_remote.png" width = 100%>
 
+<img src = "img/remote_add_mygitlab.png" width = 100%>
 
+<img src = "img/ci-cd.png" width = 100%>
+
+<img src = "img/make_jobs.png" width = 100%>
